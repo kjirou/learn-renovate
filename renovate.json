@@ -3,7 +3,6 @@
     "config:base"
   ],
   "timezone": "Asia/Tokyo",
-  "schedule": "every weekend",
   "enabledManagers": [
     "npm"
   ],
