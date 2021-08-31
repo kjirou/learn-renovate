@@ -7,6 +7,7 @@
     "npm"
   ],
   "rangeStrategy": "bump",
+  "ignoreDeps": ["npm"],
   "packageRules": [
     {
       "matchDepTypes": [
