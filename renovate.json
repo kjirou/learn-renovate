@@ -6,6 +6,7 @@
   "enabledManagers": [
     "npm"
   ],
+  "rangeStrategy": "bump",
   "packageRules": [
     {
       "matchDepTypes": [
