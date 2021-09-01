@@ -6,7 +6,6 @@
   "enabledManagers": [
     "npm"
   ],
-  "rangeStrategy": "bump",
   "ignoreDeps": [
     "@types/node",
     "npm"
