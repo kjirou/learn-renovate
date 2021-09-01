@@ -7,7 +7,10 @@
     "npm"
   ],
   "rangeStrategy": "bump",
-  "ignoreDeps": ["npm"],
+  "ignoreDeps": [
+    "@types/node",
+    "npm"
+  ],
   "packageRules": [
     {
       "matchDepTypes": [
@@ -20,12 +23,6 @@
         "devDependencies"
       ],
       "groupName": "devDependencies"
-    },
-    {
-      "packageNames": [
-        "node"
-      ],
-      "enabled": false
     }
   ]
 }
